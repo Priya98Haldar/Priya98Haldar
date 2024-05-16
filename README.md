@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya98Haldar
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and real world problem statemnets 
 - 💞️ I’m looking to collaborate to use my skills for organizatins better growth
 - 📫 How to reach me - priyahaldar322@gmail.com
 - 😄 Pronouns: ... I bealave in Teamwork
