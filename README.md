@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priya98Haldar
+- 👋 Hi, I’m Priya Haldar
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science and real world problem statements
 - 💞️ I’m looking to collaborate to use my skills for organizatins better growth
