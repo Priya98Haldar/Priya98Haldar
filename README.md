@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science and real world problem statements
 - 💞️ I’m looking to collaborate to use my skills for organizatins better growth
 - 📫 How to reach me - priyahaldar322@gmail.com
-- 😄 Pronouns: ... I bealave in Teamwork
+- 😄 Pronouns: ... I belive in Teamwork
 - ⚡ Fun fact: ... "Humans are most intelligent mammals"
 
 <!---
